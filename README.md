@@ -1,1 +1,2 @@
 # Catalog-Completeness-in-Sky-Localizations
+We developed a new plug-in, in the context of the Virtual Observatory standards andtool, to define the completeness of a catalog in the credible volume of the event un-der examination.   The plug-in is namedCatalog Completeness in Sky Localizations.Thanks to the SAMP-VO protocol and the Tkinter package, our Python plug-in is ableto communicate with the Aladin software. The plug-in will be taken into consideration in the next Aladin Desktop versionproviding a Java implementation of the algorithm.
